@@ -88,6 +88,6 @@ Visualize the training and validation metrics using the provided scripts. Marvel
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [VIT License](LICENSE).
 
 Ready to embark on a journey of discovery? Start recognizing plants with our cutting-edge model today! 🌱✨
